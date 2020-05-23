@@ -74,16 +74,16 @@ p,h1,h3{
 	border-bottom-right-radius: 3px;
 }
 #cover{
-	background: url('cover.jpg');
+	background: url('images/cover.jpg');
 
 }
 #trsf{
-	background:url('pic.jpg');
+	background:url('images/pic.jpg');
 	background-size: 100% 100%;
 }
 
 #trsf1{
-	background:url('poem.jpg');
+	background:url('images/poem.jpg');
 	background-size: 100% 100%;
 }
 
@@ -94,7 +94,7 @@ p,h1,h3{
 
 #lastpage{
 	background:#dbecfd;
-	background:url('pic2.jpg');
+	background:url('images/pic2.jpg');
 	background-size: 100% 100%;
 
 
